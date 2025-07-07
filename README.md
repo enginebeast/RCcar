@@ -10,11 +10,11 @@
 
 ### Buying a raspberry pi RC car kit and making it
 
-### Set up a camera
+### Setting up a camera
 
-### Set up a RADAR
+### Setting up a RADAR
 
-### Set up a LIDAR
+### Setting up a LIDAR
 
 ### Recognizing the destinaiton and moving toward it
 
