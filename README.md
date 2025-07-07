@@ -1,4 +1,4 @@
-[< Previous](https://enginebeast.github.io)
+[< Previous page](https://enginebeast.github.io)
 
 # Contents
 ---
