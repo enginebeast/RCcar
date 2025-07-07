@@ -20,7 +20,3 @@
 
 ### Checking battery status and deciding whether to charge or continue working
 - How to make device to check battery status
-
-### Frame made by a 3D printer
-- Low priority
-- It is necessary to learn how to use a 3D modeling program.
