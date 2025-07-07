@@ -8,7 +8,7 @@
 
 # Plan
 
-### Buying a raspberry pi RC car kit and made it
+### Buying a raspberry pi RC car kit and making it
 
 ### Set up a camera
 
