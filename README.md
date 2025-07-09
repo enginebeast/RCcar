@@ -6,7 +6,9 @@
 ### [Taking apart an RC car](https://enginebeast.github.io/self_drive1/)
 ---
 
-# Plan
+# Plans
+---
+
 ### Building a driving system
 
 ### Building a steering system
