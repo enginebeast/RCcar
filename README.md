@@ -7,14 +7,15 @@
 ---
 
 # Plan
+### Building a driving system
 
-### Buying a raspberry pi RC car kit and making it
+### Building a steering system
 
-### Setting up a camera
+### Connecting a camera to Raspberry pi
 
-### Setting up a RADAR
+### Connecting a RADER to Raspberry pi
 
-### Setting up a LIDAR
+### Connecting a LIDAR to Raspberry pi
 
 ### Recognizing the destinaiton and moving toward it
 
