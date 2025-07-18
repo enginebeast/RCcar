@@ -9,4 +9,6 @@ Actually, my original goal was to create the self-driving RC forklift to be appl
 
 ### [Taking apart an RC car](https://enginebeast.github.io/RCcar1/)
 
+### [Controlling motors with an Arduino](https://enginebeast.github.io/RCcar3/)
+
 ### [Plans for RC car project](https://enginebeast.github.io/RCcar2/)
