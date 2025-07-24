@@ -7,7 +7,7 @@ Actually, my original goal was to create the self-driving RC forklift to be appl
 # Contents
 ---
 
-### [Taking apart an RC car](https://enginebeast.github.io/RCcar1/)4
+### [Taking apart an RC car](https://enginebeast.github.io/RCcar1/)
 
 ### [Physics for an RC car project]()
 
