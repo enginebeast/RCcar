@@ -11,6 +11,8 @@ Actually, my original goal was to create the self-driving RC forklift to be appl
 
 ### [Physics for an RC car project](https://enginebeast.github.io/RCcar5/)
 
+### [Materials and tools for an RC car project](https://enginebeast.github.io/RCcar6/)
+
 ### [Controlling a servo motor through laptop connection](https://enginebeast.github.io/RCcar3/)
 
 ### [Controlling a servo motor with remote controller](https://enginebeast.github.io/RCcar4/)
