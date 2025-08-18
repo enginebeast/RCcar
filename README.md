@@ -13,6 +13,6 @@ Actually, my original goal was to create the self-driving RC forklift to be appl
 
 ### [Controlling a servo motor with remote controller](https://enginebeast.github.io/RCcar4/)
 
-### [Bluetooth RC application for an RC car project](https://enginebeast.github.io/RCcar5/)
+### [Controlling a servo motor with a Bluetooth remote control app](https://enginebeast.github.io/RCcar5/)
 
 ### [Plans for RC car project](https://enginebeast.github.io/RCcar2/)
