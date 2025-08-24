@@ -2,7 +2,7 @@
 
 - Purpose and Decision making process
 
-Actually, my original goal was to create the self-driving RC forklift to be applied to an automated factory. But, I realized that my skills and knowleges are insufficient for such the project. So, I decided to start with an arduino-based simpler RC car project. 
+Actually, my original goal was to create the autonomous mini forklift to be applied to an automated factory. But, I realized that my skills and knowleges are insufficient for such the project. So, I decided to start with an arduino-based simpler RC car project. 
 
 # Contents
 ---
