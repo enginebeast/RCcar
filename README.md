@@ -3,7 +3,7 @@
 Actually, my original goal was to create the autonomous mini forklift to be applied to an automated factory. But, I realized that my skills and knowleges are insufficient for such the project. So, I decided to start with an arduino-based simpler RC car project. 
 
 ### Building an Arduino RC car
-- Building remote control app using MIT app inventor
+- [Building remote control app using MIT app inventor](https://enginebeast.github.io/smallcar4/)
 - Building circuis for an Arduino RC car
 - Programming Arduino
 
