@@ -1,6 +1,6 @@
 < [Main Page](https://enginebeast.github.io)
 
-### [Plans for RC car project](https://enginebeast.github.io/RCcar2/)
+### [Plans for RC car project](https://enginebeast.github.io/smallcar1/)
 
 ### [Taking apart an RC car](https://enginebeast.github.io/RCcar1/)
 
