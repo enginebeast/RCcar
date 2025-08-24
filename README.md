@@ -1,11 +1,6 @@
 < [Main Page](https://enginebeast.github.io)
 
-- Purpose and Decision making process
-
-Actually, my original goal was to create the autonomous mini forklift to be applied to an automated factory. But, I realized that my skills and knowleges are insufficient for such the project. So, I decided to start with an arduino-based simpler RC car project. 
-
-# Contents
----
+### [Plans for RC car project](https://enginebeast.github.io/RCcar2/)
 
 ### [Taking apart an RC car](https://enginebeast.github.io/RCcar1/)
 
@@ -15,4 +10,4 @@ Actually, my original goal was to create the autonomous mini forklift to be appl
 
 ### [Controlling a servo motor with a Bluetooth remote control app](https://enginebeast.github.io/RCcar5/)
 
-### [Plans for RC car project](https://enginebeast.github.io/RCcar2/)
+
