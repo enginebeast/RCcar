@@ -16,9 +16,6 @@ Actually, my original goal was to create the autonomous mini forklift to be appl
 - [Controlling a servo motor through laptop connection](https://enginebeast.github.io/RCcar3/)
 - [Controlling a servo motor with remote control](https://enginebeast.github.io/RCcar4/)
 
-### [Plans for small car project](https://enginebeast.github.io/smallcar1/)
-
-
 
 
 
